@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../Images/resume.pdf"
+import resume from "../Images/Ibrahim_Miloua_Resume.pdf"
 
 const PDFViewer = () => {
  return (
